@@ -18,7 +18,7 @@ Para un entorno de desarrollo instala las dependencias
  
 `pip install -r requirements-dev.txt`
 
-## RUN
+## Run
 Ejecuta el script principal para calcular el n-ésimo número de Fibonacci.
 
 
